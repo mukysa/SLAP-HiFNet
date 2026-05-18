@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python / IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Logs
+logs/
+log/
+*.log
+
+# Training outputs
+model_results/
+checkpoints/
+runs/
+outputs/
+test_results/
+data_cache/
+
+# Pretrained and trained weights
+pretrained_weights/
+*.pth
+*.pt
+*.ckpt
+
+# Intermediate data
+*.npy
+*.npz
+
+# Large remote sensing data
+*.tif
+*.tiff
+*.nc
+*.h5
+*.hdf
+*.zip
+*.tar
+*.gz
+
+# OS files
+.DS_Store
+Thumbs.db
