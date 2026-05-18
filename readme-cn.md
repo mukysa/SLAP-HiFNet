@@ -51,7 +51,7 @@ SLAP-HiFNet 采用双分支编码结构，分别提取 Sentinel-1 SAR 和 AMSR2 
    使用 Stage 1 得到的权重初始化模型，并在少量人工标注 IW 标签和对应 SIC 标签的监督下进行联合训练，以提升标签稀缺条件下的 IW 制图性能。
 
 网络结构如下：
-![SLAP-HiFNet](E:\SLAP-HiFNet\readme_imgae\SLAP-HiFNet.png)
+![SLAP-HiFNet](readme_imgae\SLAP-HiFNet.png)
 
 ## 4. 环境依赖
 
@@ -209,11 +209,11 @@ visual = True
 
 脚本支持的可视化示例：
 
-<img src="E:\SLAP-HiFNet\readme_imgae\S1A_EW_GRDM_1SDH_20250423T073932_20250423T074032_058881_074C66_2E19.nc_vis.png" alt="S1A_EW_GRDM_1SDH_20250423T073932_20250423T074032_058881_074C66_2E19.nc_vis" style="zoom:80%;" />
+<img src="readme_imgae\S1A_EW_GRDM_1SDH_20250423T073932_20250423T074032_058881_074C66_2E19.nc_vis.png" alt="S1A_EW_GRDM_1SDH_20250423T073932_20250423T074032_058881_074C66_2E19.nc_vis" style="zoom:80%;" />
 
 论文中的可视化示例：
 
-<img src="E:\SLAP-HiFNet\readme_imgae\S1A_EW_GRDM_1SDH_20241024T164958_20241024T165058_056247_06E305_1964_matrix.png" alt="S1A_EW_GRDM_1SDH_20241024T164958_20241024T165058_056247_06E305_1964_matrix" style="zoom:67%;" />
+<img src="readme_imgae\S1A_EW_GRDM_1SDH_20241024T164958_20241024T165058_056247_06E305_1964_matrix.png" alt="S1A_EW_GRDM_1SDH_20241024T164958_20241024T165058_056247_06E305_1964_matrix" style="zoom:67%;" />
 
 ## 8. 支持的模型
 
