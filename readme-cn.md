@@ -51,7 +51,7 @@ SLAP-HiFNet 采用双分支编码结构，分别提取 Sentinel-1 SAR 和 AMSR2 
    使用 Stage 1 得到的权重初始化模型，并在少量人工标注 IW 标签和对应 SIC 标签的监督下进行联合训练，以提升标签稀缺条件下的 IW 制图性能。
 
 网络结构如下：
-![SLAP-HiFNet](readme_imgae\SLAP-HiFNet.png)
+<img src="readme_imgae\SLAP-HiFNet.png" alt="SLAP-HiFNet"  />
 
 ## 4. 环境依赖
 
