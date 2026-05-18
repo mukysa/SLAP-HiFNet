@@ -28,7 +28,7 @@ SLAP-HiFNet/
 ├── models/               # SLAP-HiFNet 和对照模型定义
 ├── options/              # 不同模型与实验阶段的配置文件
 ├── pretrained_weights/   # 预训练权重
-├── readme_imgae/         # 本readme文件的图片
+├── readme_image/         # 本readme文件的图片
 ├── utils/                # 损失函数、评价指标、学习率调度器和辅助函数
 ├── train.py              # 训练入口脚本
 ├── test.py               # 测试、评价和可视化入口脚本

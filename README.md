@@ -27,7 +27,7 @@ SLAP-HiFNet/
 ├── dataset/              # Dataset JSON files and JSON generation scripts
 ├── models/               # SLAP-HiFNet and baseline model definitions
 ├── options/              # Configuration files for different models and training stages
-├── readme_imgae/         # Images used in this README
+├── readme_image/         # Images used in this README
 ├── utils/                # Loss functions, evaluation metrics, LR schedulers, and helper functions
 ├── train.py              # Training entry script
 ├── test.py               # Testing, evaluation, and visualization entry script
