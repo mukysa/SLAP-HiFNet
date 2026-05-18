@@ -4,7 +4,7 @@ This repository provides the core implementation of **SLAP-HiFNet: A Stage-Linke
 
 SLAP-HiFNet is designed for Arctic sea ice mapping using Sentinel-1 SAR and AMSR2 passive microwave observations. The framework combines hierarchical active--passive microwave feature fusion with a stage-linked training strategy. It first uses readily available sea ice concentration (SIC) products for pretraining, and then transfers the learned representations to the label-scarce ice-water classification (IW) task.
 
-This repository is still being refined. Some non-core comments may not yet be fully revised, and the current version does not yet provide an `argparse`-based command-line interface. This README will be updated as the code and data release are further organized.
+(This repository provides the core implementation used in the manuscript. Additional utilities, pretrained checkpoints, and dataset preparation scripts will be progressively organized and released.)
 
 ## 1. Introduction
 
