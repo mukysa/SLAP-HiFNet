@@ -260,7 +260,7 @@ The CNN baselines are constructed using `segmentation_models.pytorch`:
 
 - segmentation_models.pytorch: https://github.com/qubvel-org/segmentation_models.pytorch
 
-The pretrained weights of the proposed model, including Stage 1 and Stage 2 checkpoints, will be released later.
+The pretrained weights of the proposed model, including Stage 1 and Stage 2 checkpoints, are on Google Drive: https://drive.google.com/drive/folders/1ss7rjrOrikj2Ob00Gbv82u1E2pw9zc9i?usp=sharing .
 
 ### Typical `model_results/` structure
 
